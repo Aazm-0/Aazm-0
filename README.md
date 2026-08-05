@@ -23,11 +23,11 @@ I'm primarily a MERN full-stack developer who enjoys bringing ideas to life. I l
 <img align="left" alt="Icon" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="Icon" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
 <img align="left" alt="Icon" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-<br />
+<br clear="left"/>
 
 ### 📈 Github Stats
 
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Aazm-0&show_icons=true&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Aazm-0&show_icons=true&theme=tokyonight)
 
 #
 
