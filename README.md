@@ -27,7 +27,7 @@ I'm primarily a MERN full-stack developer who enjoys bringing ideas to life. I l
 
 ### 📈 Github Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Aazm-0&show_icons=true&theme=gruvbox)
 
 #
 
