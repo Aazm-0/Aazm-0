@@ -4,7 +4,7 @@
 
 I'm primarily a MERN full-stack developer who enjoys bringing ideas to life. I love building projects from the ground up—from designing and planning to developing and turning concepts into real, working products. I'm always eager to learn. Whenever a new project pushes me into unfamiliar territory, I enjoy exploring new technologies, expanding my skill set, and applying what I learn to bring my ideas to life.
 
----
+#
 
 ### 🛠️ Languages and Tools
 
@@ -23,16 +23,13 @@ I'm primarily a MERN full-stack developer who enjoys bringing ideas to life. I l
 <img align="left" alt="Icon" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="Icon" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
 <img align="left" alt="Icon" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-
-
----
+<br />
 
 ### 📈 Github Stats
 
-![Aazm Github Stats](https://github-readme-stats.vercel.app/api?username=Aazm-0&show_icons=true&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
----
-
+#
 
 ### 📫 Connect With Me
 
