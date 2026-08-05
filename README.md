@@ -23,17 +23,16 @@ I'm primarily a MERN full-stack developer who enjoys bringing ideas to life. I l
 <img align="left" alt="Icon" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="Icon" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
 <img align="left" alt="Icon" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-<br />
 
-#
+
+---
 
 ### 📈 Github Stats
 
-[![Aazm-0 GitHub stats](https://github-readme-stats.vercel.app/api?username=Aazm-0&show_icons=true&theme=radical)](https://github.com/Aazm-0/github-readme-stats)
+![Aazm Github Stats](https://github-readme-stats.vercel.app/api?username=Aazm-0&show_icons=true&theme=gruvbox)
 
-#
+---
 
-#
 
 ### 📫 Connect With Me
 
@@ -49,6 +48,5 @@ I'm primarily a MERN full-stack developer who enjoys bringing ideas to life. I l
   <img src="https://img.shields.io/badge/Email-D26AA6?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-#
 
 
